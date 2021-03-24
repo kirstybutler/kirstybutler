@@ -3,7 +3,7 @@
 - I’m currently improving my Android knowledge and best practices.
 - How to reach me ... </br>
   linkedin.com/kirsty_butler </br>
-  kirsty.butler@kinandcarta.com
+  kirstybutler6@gmail.com
 
 <!---
 kirstybutler/kirstybutler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
